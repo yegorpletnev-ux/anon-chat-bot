@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.venv
+anon_chat.db
+*.sqlite3
+*.db
+.DS_Store
